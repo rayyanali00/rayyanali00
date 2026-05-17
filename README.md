@@ -74,7 +74,7 @@ Multi-agent AI system for automated enrichment and workflow execution.
 
 ## 🌍 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/syed-rayyan-ali-84a469162/)
+- LinkedIn: [https://www.linkedin.com/in/syed-rayyan-ali-84a469162/](https://www.linkedin.com/in/syed-rayyan-ali-84a469162/)
 - Email: rayyanali929@gmail.com
 
 ---
