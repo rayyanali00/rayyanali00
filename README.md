@@ -81,10 +81,8 @@ Multi-agent AI system for automated enrichment and workflow execution.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayyanali00&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayyanali00&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanali00&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayyanali00&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayyanali00&theme=github_dark)
